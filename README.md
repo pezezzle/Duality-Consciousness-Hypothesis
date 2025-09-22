@@ -24,7 +24,7 @@ Both documents outline the idea in a scientific paper format.
 
 ## 📌 Publication
 This repository serves as a **public record** of the idea (Prior Art).  
-Date of publication: **`<Insert Date>`**
+Date of publication: **`22.09.2025`**
 
 Author: **Ronny Bigler**
 
