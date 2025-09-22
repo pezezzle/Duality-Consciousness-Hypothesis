@@ -26,7 +26,7 @@ Both documents outline the idea in a scientific paper format.
 This repository serves as a **public record** of the idea (Prior Art).  
 Date of publication: **`<Insert Date>`**
 
-Author: **Ronny [Your Last Name, optional]**
+Author: **Ronny Bigler**
 
 ---
 
