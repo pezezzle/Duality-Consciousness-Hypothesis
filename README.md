@@ -8,8 +8,7 @@ From this reflection, a **third emergent system** arises that processes meta-inf
 
 ## 📑 Contents
 - `papers/`  
-  - **Dualitaet_KI_Bewusstsein.docx** (German version)  
-  - **Duality_AI_Consciousness_Hypothesis.docx** (English version)  
+  - **Duality_AI_Consciousness_Hypothesis.docx**
 
 Both documents outline the idea in a scientific paper format.
 
